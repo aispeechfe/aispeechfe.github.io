@@ -17,11 +17,11 @@
         "operator": "aispeechfe"
       },
       {
-        "name": "aweawe",
+        "name": "项目开发代理",
         "column": "前端",
         "createtime": "January 24, 2019",
-        "content": "<h2>ewrgw</h2>\n",
-        "operator": "kerrypf"
+        "content": "<h3>项目开发代理</h3>\n<h4>在开发阶段我们可以从本地代理到线上各环境，目前在项目中直接修改develop.js文件的代理配置，导致经常出现冲突。基于该问题的解决方式就是在浏览器中做代理</h4>\n<blockquote>\n<h4>代理方式：</h4>\n<ol>\n<li>\n<h4>在浏览器中下载Modify Header Value</h4>\n</li>\n<li>\n<h4>配置代理</h",
+        "operator": "young"
       }
     ]
   }
